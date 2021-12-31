@@ -2,7 +2,7 @@
 Welcome,
   I'm **Samyak Bakliwal** who believes that we coders are wizards. 
   
-# Progress
-Currently learning Reactjs with plan to get my first job.
+# Interest
+  Learn about DevOps and how the software architecture is put together to run services smoothly.
 
-You can visit me on my [hmble.dev](https://hmble.dev)
+You can visit me on my [samyakb.com](https://samyakb.com)
